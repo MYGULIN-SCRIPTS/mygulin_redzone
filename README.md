@@ -4,3 +4,5 @@ Dependencies
 - Esx extended
 
 For any support contact us here https://discord.gg/Hjjd6U658Z
+
+I DO NOT GIVE YOU PERMISSION TO PRESENT/SELL THIS SCRIPT AS YOUR OWN!
